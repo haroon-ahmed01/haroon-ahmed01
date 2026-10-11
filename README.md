@@ -6,17 +6,6 @@
 <tr>
 <td width="60%">
 
-## About Me
-
-- 🚀 Here's my [portfolio](https://haroonportfolio.wuaze.com)
-- 📚 I'm currently learning and mastering **MERN Stack Development** and integrating AI to my workflow
-- 💼 Engineering at **Marqwon** as Full Stack Developer Intern
-- 🔨 Previously worked with **Maxyfi**
-- 🎓 BCA in Data Science from Crescent University
-- 🌍 Based in Chennai, Tamil Nadu, India
-- 💡 Passionate about creating scalable web applications
-- 🤖 Exploring AI/ML integration in web development
-
 </td>
 <td width="40%">
 
