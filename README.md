@@ -1,7 +1,5 @@
 # Hi there 👋 It's me Haroon Ahmed
 
-**Full Stack Developer Intern @ Marqwon**
-
 <table>
 <tr>
 <td width="60%">
